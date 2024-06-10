@@ -8,10 +8,11 @@ def solution(num):
         return 'Odd' 
     else:
         return 'Even'
-        
+     
 
 def main():
     numb = int(input())
     solution(numb)
     
 main()
+

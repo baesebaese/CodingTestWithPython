@@ -5,7 +5,6 @@
 import math
 
 def solution(s):
-    answer = ""     
     # 1. 문자열의 길이 구하기
     strLen = len(str(s))
     halfLen = math.floor(strLen/2)

@@ -12,7 +12,6 @@ def solution(str1, str2):
            answer += str2[num]
            num+=1
    
-    print(answer)
     return answer
 
 def main():
